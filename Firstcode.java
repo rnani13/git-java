@@ -4,3 +4,14 @@ public class Mahesh{
         system.out.println(str);
     }
 }
+
+
+public class Nani
+{
+    public static void main(String[] args){
+        int a=10;
+        int b=30;
+        c=a+b;
+        system.out.println(c);
+    }
+}

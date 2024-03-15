@@ -3,7 +3,7 @@ public class Mahesh{
         String str="hello this is nani";
         system.out.println(str);
     }
-}
+}clear
 
 
 public class Nani
@@ -15,3 +15,5 @@ public class Nani
         system.out.println(c);
     }
 }
+
+submit this file in the file
